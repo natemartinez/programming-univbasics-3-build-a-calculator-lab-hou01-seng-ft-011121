@@ -27,9 +27,7 @@ def square_root(num)
 Math.sqrt(num)
 end
 
-addition("5","4")
-
-subtraction("5","4")
+addition("5","4subtraction("5","4")
 
 division("5","4")
 
