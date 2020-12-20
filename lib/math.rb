@@ -26,13 +26,3 @@ end
 def square_root(num)
 Math.sqrt(num)
 end
-
-addition("5","4subtraction("5","4")
-
-division("5","4")
-
-multiplication("5","4")
-
-modulo("5","4")
-
-square_root("5","4")
